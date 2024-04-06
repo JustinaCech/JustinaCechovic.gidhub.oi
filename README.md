@@ -1,2 +1,2 @@
 # JustinaCechovic.gidhub.oi
-Darbų portfolio
+Čia galite rasti mano nedidelį projektą, atlikta per Jupyter Notebook.
